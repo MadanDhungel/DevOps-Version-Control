@@ -1,4 +1,4 @@
-elevate-labs : Version control a devops project (task2)
+elevate-labs : Version control a devops project (Task 3)
 
 --------------------------------------------------------
 
