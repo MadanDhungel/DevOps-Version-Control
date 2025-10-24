@@ -1,4 +1,4 @@
-elevate-labs : Version control a devops project (task2)
+elevate-labs : Version control a devops project (Task 3)
 
 --------------------------------------------------------
 
@@ -13,9 +13,15 @@ Deliverables: Project repo with proper commits, branching
 ----------------------------------------------------------
 
 Hints:
+
 a.Initialize repo and push to GitHub.
+
 b.Create dev, feature, and main branches.
+
 c.Use pull requests to merge.
+
 d.Add a proper README.md.
+
 e.Use .gitignore and tags.
+
 f.Document all tasks using markdown.
